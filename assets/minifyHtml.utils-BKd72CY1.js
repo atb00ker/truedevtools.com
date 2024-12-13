@@ -1,0 +1,1 @@
+const i=e=>window.htmlMinifier.minify(e,{collapseWhitespace:!0,removeComments:!0,removeRedundantAttributes:!0,removeScriptTypeAttributes:!0,removeTagWhitespace:!0,minifyCSS:!0,minifyJS:!0});export{i as m};
